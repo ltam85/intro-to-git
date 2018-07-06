@@ -14,3 +14,17 @@
 # Removing files
 
 # Ignoring files
+
+# Git Branches
+    - listing all branches
+    - adding a branches
+    - changing branches
+    - merging a branch
+    - removing a branch
+    
+    
+    
+              /-----0-----0-----0
+             /                 /
+    0--------0-----0-----0-----0
+    
